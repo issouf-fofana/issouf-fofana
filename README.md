@@ -45,53 +45,6 @@ I enjoy solving operational problems and optimizing infrastructures through scri
 - System monitoring
 - Server deployment & maintenance
 
-## ⚡ Automation & DevOps
-- Python automation
-- n8n workflows
-- Cron jobs & task automation
-- API integrations
-- CI/CD basics
-- Git & GitHub
-
-## 📊 Data & Monitoring
-- Real-time monitoring systems
-- Log analysis
-- PostgreSQL / MySQL
-- Data processing automation
-- Infrastructure supervision
-
----
-
-# 🚀 What I Do
-
-## 🖥️ Linux Administration
-- Server installation & configuration
-- User and permission management
-- Services management
-- Troubleshooting & maintenance
-- Performance monitoring
-
-## 🤖 Automation
-- Automated operational tasks
-- Real-time alert systems
-- API-based workflows
-- Automated reporting systems
-- Infrastructure scripts
-
-## 📈 Monitoring & Supervision
-- Monitoring server availability
-- Network connectivity supervision
-- Infrastructure health checks
-- Centralized logs and alerts
-
-## 🔗 Integration & Development
-- Backend scripting with Python
-- API integrations
-- Internal tools development
-- Workflow optimization
-
----
-
 # 📌 Projects
 
 ## 🔍 Infrastructure Monitoring System
@@ -118,18 +71,6 @@ Deployment and management of containerized applications and services.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issouf-fofana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- Advanced DevOps practices
-- Cloud Infrastructure
-- Advanced Data Engineering
-- Infrastructure as Code
-
----
 
 # 🤝 Connect With Me
 
