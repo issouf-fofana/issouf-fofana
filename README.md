@@ -111,12 +111,12 @@ Deployment and management of containerized applications and services.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=issouf-fofana&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=issouf-fofana&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issouf-fofana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -134,15 +134,15 @@ Deployment and management of containerized applications and services.
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/TON_USERNAME" target="_blank">
+  <a href="https://github.com/issouf-fofana" target="_blank">
     <img alt="GitHub" height="32" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/issouf-fofana-6544252a3" target="_blank">
     <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:TON_EMAIL" target="_blank">
+  <a href="mailto:issouf.fofana.pro@gmail.com" target="_blank">
     <img alt="Email" height="32" src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white">
   </a>
 </p>
