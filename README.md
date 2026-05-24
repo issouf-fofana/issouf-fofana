@@ -36,15 +36,6 @@ I enjoy solving operational problems and optimizing infrastructures through scri
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,mysql,postgres,nginx,redis,vscode" />
 </p>
 
-## 💻 Systems & Infrastructure
-- Linux (Ubuntu, Debian)
-- Bash scripting
-- SSH / Remote administration
-- Docker & Docker Compose
-- Nginx
-- System monitoring
-- Server deployment & maintenance
-
 
 
 
