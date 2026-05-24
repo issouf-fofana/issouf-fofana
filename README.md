@@ -45,21 +45,7 @@ I enjoy solving operational problems and optimizing infrastructures through scri
 - System monitoring
 - Server deployment & maintenance
 
-# 📌 Projects
 
-## 🔍 Infrastructure Monitoring System
-Monitoring solution for servers and network connectivity between multiple company sites.
-
-## ⚙️ Automation Workflows with n8n
-Automation of repetitive operational tasks and automatic responses using APIs and workflows.
-
-## 📡 Real-Time Data Processing
-Systems for collecting and processing operational data in real time.
-
-## 🐳 Dockerized Services
-Deployment and management of containerized applications and services.
-
----
 
 
 # 🤝 Connect With Me
